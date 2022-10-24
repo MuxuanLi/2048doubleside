@@ -1,3 +1,5 @@
+/* <2048 double side>
+Copyright (C) <2022>  <Muxuan Li>*/
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
